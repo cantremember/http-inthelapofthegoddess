@@ -25,7 +25,7 @@ indent_style = tab
 
 # JavaScript, JSON
 [*.{js,json}]
-indent_size = 4
+indent_size = 2
 
 # YAML
 [*.{yaml,yml}]

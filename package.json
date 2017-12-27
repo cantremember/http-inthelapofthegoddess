@@ -4,12 +4,18 @@
   "description": "In the Lap of the Goddess",
   "repository": {
     "type": "git",
-    "url": "ssh://git@sink.cantremember.com/opt/git-repo/blog-cantremember"
+    "url": "git@github.com:cantremember/http-inthelapofthegoddess.git"
   },
   "author": "Daniel M Foley <admin@cantremember.com> (http://cantremember.com/)",
-  "scripts": {
-  },
+  "scripts": {},
   "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-fontmin": "^0.7.4",
+    "gulp-sass": "^3.1.0",
     "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
   }
 }
