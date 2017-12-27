@@ -84,13 +84,13 @@ template { display: none; }
 [hidden] { display: none; }
 
 /*! cantremember/http-inthelapofthegoddess */
-body { background-color: #000; color: #f8f8f8; font-family: "Palatino Linotype", "Book Antiqua3", "Palatino", serif; font-family: "Times New Roman", "Times", serif; font-size: 11pt; line-height: 1.5; font-weight: normal; font-style: normal; font-kerning: normal; letter-spacing: 0.25px; word-spacing: normal; font-smooth: auto; text-rendering: optimizeLegibility; font-size-adjust: none; }
+body { background-color: #000; color: #f8f8f8; font-family: "Palatino Linotype", "Book Antiqua3", "Palatino", serif; font-size: 11pt; line-height: 1.5; font-weight: normal; font-style: normal; font-kerning: normal; letter-spacing: 0.25px; word-spacing: normal; font-smooth: auto; text-rendering: optimizeLegibility; font-size-adjust: none; }
 
 @media (min-width: 20em) { body { font-size: 12.5pt; } }
 
 @media (min-width: 48em) { body { font-size: 15pt; } }
 
-a { color: #f8f8f8; text-decoration-color: #898989; text-underline-position: under; }
+a { color: #f8f8f8; text-decoration-color: #aaa; text-underline-position: under; }
 
 a:hover, a:active { text-decoration-color: #f8f8f8; }
 
@@ -110,9 +110,9 @@ a:hover, a:active { text-decoration-color: #f8f8f8; }
 
 @media (min-aspect-ratio: 4 / 3) { *[role="contentinfo"] > .ui-wrapper { margin-left: 55vw; margin-top: 20vh; padding: 0 5vh; } }
 
-*[role="contentinfo"] hr { margin: 0 auto; max-width: 18em; border-color: #0fa3ae; border-width: 1px; }
+*[role="contentinfo"] hr { margin: 0 auto; max-width: 20em; border: 1px solid #26b9e1; }
 
-*[role="contentinfo"] h1 { margin: 0.5em 0; font-family: "Smooth Papyrus", serif; font-size: 200%; text-align: center; }
+*[role="contentinfo"] h1 { margin: 0.5em 0; font-family: "Smooth Papyrus", serif; font-size: 220%; text-align: center; }
 
 *[role="contentinfo"] address { font-style: inherit; }
 

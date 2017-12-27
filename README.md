@@ -12,8 +12,8 @@
 ## Info
 
 - Carolyn Kepes
-- Carolyn@InTheLapOfTheGoddess.com
-- http://fb.me/LapoftheGoddess
+- [Carolyn@InTheLapOfTheGoddess.com](mailto:carolyn@inthelapofthegoddess.com)
+- [Facebook](http://fb.me/LapoftheGoddess)
 
 
 ## Papyrus
@@ -31,8 +31,5 @@
 
 ## TODO
 
-- font sizing
-- google font
-...
 - Description
 - Keywords

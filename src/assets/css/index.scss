@@ -8,7 +8,7 @@ body {
 
   font-family: "Palatino Linotype", "Book Antiqua3", "Palatino", serif;
   // font-family: "Georgia", serif;
-  font-family: "Times New Roman", "Times", serif;
+  // font-family: "Times New Roman", "Times", serif;
   font-size: 11pt;
   line-height: 1.5;
   font-weight: normal;
@@ -34,7 +34,8 @@ body {
 a {
   color: #f8f8f8;
 
-  text-decoration-color: #898989; // inverse of #767676
+  // text-decoration-color: #898989; // inverse of #767676
+  text-decoration-color: #aaa;
   text-underline-position: under;
 
   &:hover,
@@ -131,16 +132,15 @@ body > .ui-wrapper {
 
 *[role="contentinfo"] hr {
   margin: 0 auto;
-  max-width: 18em;
+  max-width: 20em;
 
-  border-color: #0fa3ae; // cobalt blue
-  border-width: 1px;
+  border: 1px solid #26b9e1; // slightly dark teal / turquoise
 }
 *[role="contentinfo"] h1 {
   margin: 0.5em 0;
 
   font-family: "Smooth Papyrus", serif;
-  font-size: 200%;
+  font-size: 220%;
   text-align: center;
 }
 *[role="contentinfo"] address {
