@@ -9,7 +9,7 @@
   "author": "Daniel M Foley <admin@cantremember.com> (http://cantremember.com/)",
   "scripts": {},
   "devDependencies": {
-    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp": "^4.0.2",
     "gulp-cli": "^1.4.0",
     "gulp-fontmin": "^0.7.4",
     "gulp-sass": "^3.1.0",
