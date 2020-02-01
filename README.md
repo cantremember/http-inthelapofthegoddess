@@ -5,8 +5,27 @@
 
 ## Github Pages
 
-- https://help.github.com/articles/using-a-custom-domain-with-github-pages/
-- https://help.github.com/articles/troubleshooting-custom-domains/
+- https://help.github.com/en/github/working-with-github-pages
+- https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
+- https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
+- https://help.github.com/en/github/working-with-github-pages/troubleshooting-custom-domains-and-github-pages
+- https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+
+Settings
+
+- Visibility = Public
+
+Settings > Options > Github Pages
+
+- Source = 'master'
+- Theme Chooser = (none)
+- Custom domain = 'inthelapofthegoddess.com'
+- [ ] Enforce HTTPS
+
+DNS Configuration
+
+- A
+- CNAME (Apex)
 
 
 ## Info
