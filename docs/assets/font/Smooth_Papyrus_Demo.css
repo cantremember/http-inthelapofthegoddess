@@ -2,6 +2,7 @@
     font-family: "Smooth Papyrus demo";
     src: url("Smooth_Papyrus_Demo.eot"); /* IE9 */
     src: url("Smooth_Papyrus_Demo.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Smooth_Papyrus_Demo.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
     url("Smooth_Papyrus_Demo.woff") format("woff"), /* chrome, firefox */
     url("Smooth_Papyrus_Demo.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
     url("Smooth_Papyrus_Demo.svg#Smooth Papyrus demo") format("svg"); /* iOS 4.1- */
