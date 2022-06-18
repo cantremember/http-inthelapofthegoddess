@@ -8,7 +8,7 @@ HTTP_TARGET = $(ROOT)/docs
 
 
 .PHONY: \
-	gulp  build watch
+	gulp  build watch \
 	server view
 
 .DEFAULT_GOAL: build
